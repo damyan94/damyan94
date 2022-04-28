@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damyan94
   - coding enthusiast that rediscovered his passion for programming
-  - I studied C++ in depth at highschool and was quite good, but then changed and went to study chemistry in university
+  - I studied C++ in depth at highschool and was quite good, but then went to study chemistry in university
   - looking to make a career shift from process engineering to software development
 
 - 👀 I’m interested in ...
@@ -9,10 +9,12 @@
   - I am also interested in process automation such as SCADAs but I admit I lack the knowledge
 
 - 🌱 I’m currently learning ...
-  - I passed a course in C++ OOP and am currently learning graphical applications with SDL2 on C++ in Software University - https://softuni.bg/
+  - I recently finished a game/application development course in C++ with SDL2 library at Software University - https://softuni.bg/
   - would be interested in learning Python some time in the future
 
 - 💞️ I’m looking to collaborate on ...
+  - I have recently started my own big project to create a game using the engine developed by the lecturer in SoftUni
+  - The project is an attempt to make a game similar to Medieval 2 Total War, which I enjoy playing when I have the time 
 
 - 📫 How to reach me ...
   - via email - damyandamyanov_94@yahoo.com
