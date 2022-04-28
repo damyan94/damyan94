@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning ...
   - I recently finished a game/application development course in C++ with SDL2 library at Software University - https://softuni.bg/
-  - would be interested in learning Python some time in the future
+  - interested in learning C#, Python or HTML at some point in the future
 
 - 💞️ I’m looking to collaborate on ...
   - I have recently started my own big project to create a game using the engine developed by the lecturer in SoftUni
