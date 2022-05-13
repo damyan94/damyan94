@@ -10,11 +10,12 @@
 
 - 🌱 I’m currently learning ...
   - I recently finished a game/application development course in C++ with SDL2 library at Software University - https://softuni.bg/
-  - interested in learning C#, Python or HTML at some point in the future
+  - interested to learn more about HTML, CSS and JavaScript and started doing some things in my spare time
+  - would be interested in learning C# or Python at some point in the future
 
 - 💞️ I’m looking to collaborate on ...
   - I have recently started my own big project to create a game using the engine developed by the lecturer in SoftUni
-  - The project is an attempt to make a game similar to Medieval 2 Total War, which I enjoy playing when I have the time 
+  - the project is an attempt to make a game similar to Medieval 2 Total War, which I enjoy playing when I have the time 
 
 - 📫 How to reach me ...
   - via email - damyandamyanov_94@yahoo.com
