@@ -3,9 +3,8 @@
   - I studied C++ in depth at highschool and was quite good, but then went to study chemistry in university
 
 - 👀 I’m interested in ...
-  - Game development or any other graphical applications development
-  - Pure back-end development also seems interesting
-  - I am also interested in process automation such as SCADAs but I admit I lack the knowledge
+  - Game development, desktop, web or mobile applications development
+  - I am also interested in process automation such as SCADAs although I lack the knowledge
 
 - 🌱 I’m currently learning ...
   - I finished a game/application development course in C++ with SDL2 library at Software University - https://softuni.bg/
