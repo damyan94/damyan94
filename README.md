@@ -1,18 +1,14 @@
 - 👋 Hi, I’m @damyan94
-  - Coding enthusiast that rediscovered his passion for programming
-  - I studied C++ in depth at highschool and was quite good, but then went to study chemistry in university
+  - C++ and C#/Unity game developer at Gameloft since 2022
 
 - 👀 I’m interested in ...
-  - Game development, desktop, web or mobile applications development
-  - I am also interested in process automation such as SCADAs although I lack the knowledge
+  - Game development, game engines, GUI applications development
 
 - 🌱 I’m currently learning ...
-  - I finished a game/application development course in C++ with SDL2 library at Software University - https://softuni.bg/
-  - I am interested to learn more about HTML, CSS and JavaScript and I started doing some minor things in my spare time
-  - I would be interested in learning C# or Python at some point, I started experimenting with Unity Engine
+  - It would be interesting to learn more about embedded systems and PLCs
 
 - 💞️ I’m looking to collaborate on ...
-  - Currently developing simple 2D application engine using SDL2 library that is inspired by the course I took at Softuni
+  - I am currently developing a simple 2D application/game engine inspired by Unity
 
 - 📫 How to reach me ...
   - Email - damyandamyanov_94@yahoo.com
